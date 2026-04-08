@@ -13,4 +13,8 @@ export default function Sidebar() {
       </ul>
     </div>
   );
+
+  
+      <h2 className="logo">ComplaintFlow</h2>
+      
 }
